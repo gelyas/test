@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{2D409359-97F6-4351-97FE-1C13E1B88CE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{2794A2F3-F994-4CF1-A933-FB59A3C8ECE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDocker_", "TestDocker_\TestDocker_.csproj", "{046FE20E-360F-44F1-98C5-223147152725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D409359-97F6-4351-97FE-1C13E1B88CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D409359-97F6-4351-97FE-1C13E1B88CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D409359-97F6-4351-97FE-1C13E1B88CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D409359-97F6-4351-97FE-1C13E1B88CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2794A2F3-F994-4CF1-A933-FB59A3C8ECE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2794A2F3-F994-4CF1-A933-FB59A3C8ECE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2794A2F3-F994-4CF1-A933-FB59A3C8ECE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2794A2F3-F994-4CF1-A933-FB59A3C8ECE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046FE20E-360F-44F1-98C5-223147152725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046FE20E-360F-44F1-98C5-223147152725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046FE20E-360F-44F1-98C5-223147152725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046FE20E-360F-44F1-98C5-223147152725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067FBC22-24C0-45F9-8E4C-A1EDB68A0A12}
+	EndGlobalSection
+EndGlobal
